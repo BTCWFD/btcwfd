@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bienvenido al repositorio oficial de Wilfredo Caro!  :fa-eye:
 
-<!--
-**BTCWFD/btcwfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Presentacion:
+#### Hola mundo te saludo desde Colombia.
+###### Un colombiano orgulloso de su tierra y su gente.
+#### Actualmente estudiante de Platzi.
+###### Uno de mis propositos es aprender, desarrollar y enseñar todo lo referente a tecnologia web3.0 desde blockchain, DAO , DeFi , ReFi , NFT , IOTA y todo lo referente con cryptografia, IA e Internet of thinks.
+####  Desde el 2015.
+###### Analizo bitcoin y cryptomonedas, un seguimiento a la tecnologia blockchain que va desde Ethereum, IOTA , Polkadot and more.
 
-Here are some ideas to get you started:
+### La importancia de IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:fa-twitter-square: https://twitter.com/wilfredo_caro
+
+
