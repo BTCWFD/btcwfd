@@ -1,4 +1,4 @@
-# Bienvenido al repositorio oficial de Wilfredo Caro!  :fa-eye:
+# Bienvenido al repositorio oficial de Wilfredo Caro! 
 
 ## Presentacion:
 #### Hola mundo te saludo desde Colombia.
@@ -10,6 +10,6 @@
 
 ### La importancia de IA.
 
-:fa-twitter-square: https://twitter.com/wilfredo_caro
+https://twitter.com/wilfredo_caro
 
 
