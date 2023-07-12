@@ -1,14 +1,6 @@
 # Bienvenido al repositorio oficial de Wilfredo Caro! 
 
-## Presentacion:
-#### Hola mundo te saludo desde Colombia.
-###### Otro colombiano orgulloso de su tierra y su gente.
-#### Actualmente estudiante de Platzi.
-###### Uno de mis propositos es aprender, desarrollar y enseñar todo el universo que inicia con tecnologia web3.0 desde blockchain, DAO , DeFi , ReFi , NFT , IOTA, metaversos y todo lo referente con cryptografia, IA e Internet of thinks.
-####  Desde el 2015.
-###### Analizo bitcoin y cryptomonedas, un seguimiento a la tecnologia blockchain que va desde Ethereum, IOTA , Polkadot and more.
-
-### La importancia de IA.
+"Currently, I am a Platzi student. One of my purposes is to learn, develop, and teach the entire universe that starts with web3 technology, from blockchain, DAO, DeFi, ReFi, NFT, IOTA, metaverses, and everything related to cryptography, AI, and the Internet of Things. I have been doing this since 2015. I analyze Bitcoin and cryptocurrencies and follow the advancements in blockchain technology, including Ethereum, IOTA, Polkadot, and more. I also understand the importance of AI."
 
 https://twitter.com/wilfredo_caro
 
